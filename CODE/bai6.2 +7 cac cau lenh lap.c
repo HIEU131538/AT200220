@@ -26,7 +26,7 @@ int main(){
         S+=(1.0/i);
     }
     printf("KET QUA BAI 7 LA :");
-    printf("%.4f",S);
+    printf("%.4lf",S);
 
 
     return 0;
